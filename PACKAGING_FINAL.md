@@ -10,16 +10,16 @@
 
 | # | Name | Rationale |
 |---|------|------------|
-| 1 | **bi-sql-analytics-portfolio** | BI + SQL + analytics + portfolio. Strong ATS hit, clear role fit. |
-| 2 | **data-analyst-sql-kpi-portfolio** | Role + SQL + KPI. Very explicit. |
-| 3 | **sql-bi-reporting-portfolio** | SQL first, BI, reporting. Short. |
-| 4 | **technical-data-analyst-portfolio** | Matches job title exactly. |
-| 5 | **analytics-portfolio-sql-bi** | Analytics lead, portfolio, SQL/BI. |
+| 1 | **sql-data-quality-kpi-portfolio** | SQL + data quality + KPI + portfolio. Best balance: clarity, specificity, seriousness, differentiation. **(chosen)** |
+| 2 | data-analyst-sql-kpi-portfolio | Role + SQL + KPI. Very explicit. |
+| 3 | bi-sql-analytics-portfolio | BI + SQL + analytics. Strong ATS. |
+| 4 | sql-bi-reporting-portfolio | SQL first, BI, reporting. Short. |
+| 5 | technical-data-analyst-portfolio | Matches job title exactly. |
 
-**Recommendation:** **data-analyst-sql-kpi-portfolio**
+**Recommendation:** **sql-data-quality-kpi-portfolio**
 
-- Puts **role** (data analyst), **SQL**, **KPI**, and **portfolio** in the name. Very ATS-friendly and aligned to how recruiters filter (role + skills + evidence).
-- Alternative **bi-sql-analytics-portfolio** is also valid: strong on BI, SQL, analytics. Use either; slight preference for data-analyst-sql-kpi-portfolio for job search.
+- Puts **SQL**, **data quality**, **KPI**, and **portfolio** in the name. Clear, specific, serious, and differentiated from generic “data” or “analytics” repos.
+- Strong fit for Technical Data Analyst / BI Analyst positioning without sounding generic.
 
 ---
 
@@ -105,7 +105,7 @@ Technical Data Analyst / BI Analyst portfolio: SQL, KPI reporting, data quality,
 
 **GitHub pinned repos (order):** Use 2–3 pins when you have other strong assets. One pin is clear; 2–3 give more depth.
 
-1. **First pin:** This repo (**data-analyst-sql-kpi-portfolio**). Main portfolio entry point.
+1. **First pin:** This repo (**sql-data-quality-kpi-portfolio**). Main portfolio entry point.
 2. **Second pin:** Your main retail / Power BI / profitability project (dashboard, KPIs, or report that reinforces the same positioning).
 3. **Third pin:** Another repo or asset that reinforces SQL or dashboarding (e.g. another SQL project, a Power BI sample, or a reporting repo).
 
@@ -121,7 +121,7 @@ Rationale: SQL Lab is the strongest technical signal and most universal; Data Qu
 
 **What the reader should understand in 30 seconds:**
 
-- This is a **Technical Data Analyst / BI Analyst** portfolio (repo name: **data-analyst-sql-kpi-portfolio**).
+- This is a **Technical Data Analyst / BI Analyst** portfolio (repo name: **sql-data-quality-kpi-portfolio**).
 - **Three projects:** (1) SQL on a retail star schema with exercises and business interpretation, (2) data quality and reconciliation with dirty/clean data and corrected output, (3) API-to-BI pipeline from retail API to dimensional model and CSV/SQLite.
 - Focus: **SQL, KPI reporting, data quality, dimensional modeling, and business interpretation.** Python is used to run scripts; the identity is SQL and BI.
 - Each project has a business problem, approach, outputs, and interview-defense notes.

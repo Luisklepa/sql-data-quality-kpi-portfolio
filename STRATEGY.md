@@ -8,7 +8,7 @@
 
 ## 1. Estrategia de repositorio
 
-**Un solo repositorio.** Nombre público: **BI & SQL Analytics Portfolio**. Repo GitHub recomendado: `data-analyst-sql-kpi-portfolio` (alternativa: `bi-sql-analytics-portfolio`). Carpeta local: LIMITLESS.
+**Un solo repositorio.** Nombre público: **BI & SQL Analytics Portfolio**. Repo GitHub: `sql-data-quality-kpi-portfolio`. Carpeta local: LIMITLESS.
 
 - Mensaje público: SQL, KPI reporting, data quality, dimensional modeling, business interpretation.
 - No son “5 herramientas genéricas”: es **un activos públicos y herramientas privadas (ver bullet anterior)** con activos públicos y herramientas de apoyo privadas.

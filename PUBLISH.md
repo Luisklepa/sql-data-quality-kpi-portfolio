@@ -7,14 +7,14 @@ This repo is ready for public publication. Git is initialized and the initial co
 - [x] No secrets, tokens, or credentials in the repo
 - [x] `.gitignore` excludes: `.env`, `output/`, `*.db`, `venv/`, `__pycache__`, `jd.txt`; allows `_shared/data/*.csv` and `02-data-quality-kpi-pack/data/dirty/*.csv`
 - [x] README is the final public version (sober, no heavy personal details)
-- [x] Repo name for GitHub: **data-analyst-sql-kpi-portfolio**
+- [x] Repo name for GitHub: **sql-data-quality-kpi-portfolio**
 - [x] Content is safe and appropriate for a public portfolio
 
 ## What you need to do
 
 1. **Create the repository on GitHub**
    - Go to [github.com/new](https://github.com/new)
-   - **Repository name:** `data-analyst-sql-kpi-portfolio`
+   - **Repository name:** `sql-data-quality-kpi-portfolio`
    - **Visibility:** Public
    - Do **not** add a README, .gitignore, or license (this repo already has them)
    - Click **Create repository**
@@ -25,13 +25,13 @@ This repo is ready for public publication. Git is initialized and the initial co
 
    ```bash
    cd "c:\Users\User\Desktop\LIMITLESS"
-   git remote set-url origin https://github.com/YOUR_GITHUB_USERNAME/data-analyst-sql-kpi-portfolio.git
+   git remote set-url origin https://github.com/YOUR_GITHUB_USERNAME/sql-data-quality-kpi-portfolio.git
    ```
 
    If you have not added a remote yet:
 
    ```bash
-   git remote add origin https://github.com/YOUR_GITHUB_USERNAME/data-analyst-sql-kpi-portfolio.git
+   git remote add origin https://github.com/YOUR_GITHUB_USERNAME/sql-data-quality-kpi-portfolio.git
    ```
 
 3. **Push** (use `main` or `master` depending on your default branch)
@@ -53,7 +53,7 @@ This repo is ready for public publication. Git is initialized and the initial co
 
 ## Final repo URL (after you create and push)
 
-`https://github.com/YOUR_GITHUB_USERNAME/data-analyst-sql-kpi-portfolio`
+`https://github.com/YOUR_GITHUB_USERNAME/sql-data-quality-kpi-portfolio`
 
 ---
 
