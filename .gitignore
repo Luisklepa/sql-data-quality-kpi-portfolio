@@ -1,0 +1,16 @@
+# data-analyst-sql-kpi-portfolio — public repo
+# Do not commit secrets, tokens, or local-only artifacts.
+
+__pycache__/
+*.py[cod]
+*.db
+.env
+.venv/
+venv/
+output/
+*.csv
+!_shared/data/*.csv
+!02-data-quality-kpi-pack/data/dirty/*.csv
+jd.txt
+.DS_Store
+Thumbs.db

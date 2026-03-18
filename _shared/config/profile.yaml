@@ -1,0 +1,72 @@
+# Perfil profesional — Technical Data Analyst / BI Analyst
+# Usado por: JD/CV Tailoring (03), Mock Interview Generator (05)
+# NO inventar experiencia ni herramientas fuera de este perfil.
+
+candidate:
+  name: Luis Eduardo Klepatzky Portocarrero
+  location: Lima, Peru
+  availability: Immediate
+  languages:
+    - Spanish (native)
+    - English (C1)
+    - Italian (C1)
+
+positioning:
+  primary: Technical Data Analyst / BI Analyst
+  not_position_as: Data Scientist (pure), Senior, ML engineer
+  stack_order:
+    - SQL
+    - Power BI (data modeling, DAX, KPI dashboards)
+    - Advanced Excel / Power Query
+    - Python (automation, data preparation)
+    - Data quality, reporting, KPI tracking
+
+tone:
+  - Business-oriented
+  - KPI and reporting focused
+  - Structured and analytical
+  - Clear and credible
+  - No exaggerated or fake production-scale claims
+
+strengths:
+  - Retail profitability analytics
+  - Customer recurrence / repeat rate
+  - Discount impact analysis
+  - KPI design and documentation
+  - Power BI dashboards and DAX measures
+  - Dimensional modeling / star schema
+  - SQL: joins, aggregations, CTEs, window functions
+  - Data quality mindset and reconciliation
+  - Reporting automation and traceability
+  - Business interpretation of data
+
+skill_baseline:
+  SQL: 3
+  Power_BI: 4
+  DAX: 4
+  Excel: 4
+  Python: 3
+  ETL_ELT: 3
+  Data_modeling: 4
+  Communication: 3
+  Domain_depth: 2
+
+# Keywords to emphasize in tailoring (when JD matches)
+keywords:
+  - SQL
+  - Power BI
+  - DAX
+  - KPI
+  - dashboards
+  - data quality
+  - reporting
+  - Excel
+  - Power Query
+  - data modeling
+  - star schema
+  - ETL
+  - reconciliation
+  - retail analytics
+  - profitability
+  - recurrence
+  - retention

@@ -1,0 +1,31 @@
+# Herramientas y claims que NO usar ni inventar
+# Revisar en tailoring y mock interview para evitar contradicciones.
+
+# Herramientas no usadas en práctica (no afirmar experiencia)
+Oracle
+SSIS
+Azure Data Factory
+ADF
+Qlik
+Tableau
+Snowflake
+dbt
+Airflow
+Kafka
+Spark
+Databricks
+
+# Formaciones / títulos que NO inventar
+Business Administration (si no es tu título)
+Industrial Engineering (si no es tu título)
+
+# Claims que evitar
+production-scale (salvo que sea defendible)
+advanced machine learning (Power BI forecasting no es ML avanzado)
+senior
+full-stack data engineer
+ML engineer
+data scientist (como rol principal)
+
+# Mantener consistencia
+No contradicciones entre README, docs, CV, proyectos o material de entrevista.

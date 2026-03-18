@@ -1,0 +1,9 @@
+product_id,product_name,category,subcategory,unit_cost,created_at
+1,Monitor 24",Electronics,Screens,120.00,2023-01-01
+2,Teclado USB,Electronics,Peripherals,25.00,2023-01-01
+3,Silla oficina,Muebles,Oficina,85.00,2023-01-01
+4,Escritorio,Muebles,Oficina,150.00,2023-01-01
+5,Webcam HD,Electronics,Peripherals,45.00,2023-01-01
+6,Lampara LED,Muebles,Iluminacion,30.00,2023-01-01
+7,Audifonos,Electronics,Peripherals,35.00,2023-01-01
+8,Cable HDMI,Electronics,Peripherals,8.00,2023-01-01

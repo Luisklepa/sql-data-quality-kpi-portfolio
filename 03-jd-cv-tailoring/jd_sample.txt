@@ -1,0 +1,15 @@
+Technical Data Analyst - Retail Analytics
+
+We are looking for a Data Analyst to build and maintain KPI dashboards and reports.
+
+Requirements:
+- SQL for data extraction and analysis
+- Power BI: data modeling, DAX, dashboards
+- Excel advanced and Power Query
+- Experience with data quality and reconciliation
+- Understanding of retail KPIs: profitability, recurrence, margin
+- Good communication with business stakeholders
+
+Nice to have: Python for automation, Tableau.
+
+Offer: Full-time, Lima. Salary according to experience.

@@ -1,0 +1,9 @@
+customer_id,customer_name,segment,region,created_at
+1,Acme Corp,Corporate,Lima,2023-01-15
+2,Retail Norte,Retail,Lima,2023-02-01
+3,Distribuidora Sur,Corporate,Arequipa,2023-02-10
+4,Maria Lopez,Retail,Lima,2023-03-01
+5,Tienda Central,Retail,Cusco,2023-03-15
+6,Importadora Este,Corporate,Lima,2023-04-01
+7,Carlos Ruiz,Retail,Trujillo,2023-04-20
+8,Mega Store,Retail,Lima,2023-05-01
