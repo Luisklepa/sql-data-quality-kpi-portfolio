@@ -4,6 +4,10 @@ Portfolio for **Technical Data Analyst / BI Analyst** roles: SQL, KPI reporting,
 
 **Technical Data Analyst / BI Analyst** focused on SQL, KPI reporting, data quality, and dimensional modeling.
 
+![Dashboard preview](docs/dashboard_preview.svg)
+
+*Example KPI dashboard layout (generated from the included retail dataset for visual preview).*
+
 ```mermaid
 erDiagram
     fact_sales ||--o{ dim_customer : "customer_id"
@@ -44,7 +48,7 @@ Stack: **SQL**, **Power BI** (modeling, DAX, dashboards), **Excel** (Power Query
 | [**02 — Data Quality + KPI Reconciliation**](02-data-quality-kpi-pack/) | Wrong or unreconciled data undermines trust and decisions. | Clean vs dirty datasets, defined checks, issue report, corrected output, business-impact summary. |
 | [**04 — API → SQL → BI Pipeline**](04-api-sql-bi-pipeline/) | External data must land in an analytics-ready structure for reporting. | Ingest from retail API, transform to star schema, load to SQLite and CSV for BI. |
 
-Each project is documented with business problem, approach, outputs, and limitations. Interview-defense notes and pitch versions: [PUBLIC_ASSET_PITCHES_AND_BLURBS.md](PUBLIC_ASSET_PITCHES_AND_BLURBS.md). Full packaging (repo name, GitHub description, CV order, pinned order): [PACKAGING_FINAL.md](PACKAGING_FINAL.md).
+Each project includes business-first documentation, outputs, limitations, and `INTERVIEW_DEFENSE.md` notes for interview readiness.
 
 ---
 
@@ -56,7 +60,5 @@ Each project is documented with business problem, approach, outputs, and limitat
 
 ## Use
 
-- **CV / LinkedIn:** Link to this repo or to 01, 02, 04 when the role asks for SQL, data quality, or pipeline examples. Resume bullets and project lines in PUBLIC_ASSET_PITCHES_AND_BLURBS.md. Recommended: lead with 01 and 02 on CV; add 04 when the JD emphasizes ETL or pipelines.
-- **Interviews:** Recruiter, hiring-manager, and technical-screen pitch versions for each project in PACKAGING_FINAL.md.
-
-[STRATEGY.md](STRATEGY.md) · [CREDIBILITY_AUDIT.md](CREDIBILITY_AUDIT.md)
+- **CV / LinkedIn:** Link to this repo and reference 01/02/04 when the role asks for SQL, KPI reporting, data quality, or a BI-ready pipeline.
+- **Interviews:** Use `INTERVIEW_DEFENSE.md` inside each public project folder for likely questions, strong answers, business insights, and honest limitations.

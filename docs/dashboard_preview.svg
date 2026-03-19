@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+  <style>
+    .title { font: 700 16px Arial, sans-serif; fill: #111827; }
+    .label { font: 600 12px Arial, sans-serif; fill: #6b7280; }
+    .value { font: 800 26px Arial, sans-serif; fill: #111827; }
+    .kpiSmall { font: 600 12px Arial, sans-serif; fill: #111827; }
+    .chartTitle { font: 700 13px Arial, sans-serif; fill: #111827; }
+    .axis { stroke: #d1d5db; stroke-width: 1; }
+    .barCorporate { fill: #2563eb; }
+    .barRetail { fill: #60a5fa; }
+    .barLima { fill: #16a34a; }
+    .barArequipa { fill: #86efac; }
+    .barCusco { fill: #bbf7d0; }
+  </style>
+
+  <rect x="8" y="8" width="884" height="404" rx="12" fill="#ffffff" stroke="#e5e7eb"/>
+  <text x="30" y="40" class="title">Example dashboard preview (sample KPIs)</text>
+
+  <!-- KPI cards -->
+  <rect x="30" y="55" width="420" height="75" rx="10" fill="#f8fafc" stroke="#e5e7eb"/>
+  <text x="50" y="80" class="label">Total Revenue</text>
+  <text x="50" y="110" class="value">6084.73</text>
+
+  <rect x="450" y="55" width="420" height="75" rx="10" fill="#f8fafc" stroke="#e5e7eb"/>
+  <text x="470" y="80" class="label">Total Margin</text>
+  <text x="470" y="110" class="value">794.73</text>
+
+  <rect x="30" y="140" width="420" height="75" rx="10" fill="#f8fafc" stroke="#e5e7eb"/>
+  <text x="50" y="165" class="label">Repeat Customers</text>
+  <text x="50" y="195" class="value">5</text>
+
+  <rect x="450" y="140" width="420" height="75" rx="10" fill="#f8fafc" stroke="#e5e7eb"/>
+  <text x="470" y="165" class="label">Top Segment</text>
+  <text x="470" y="190" class="kpiSmall">Corporate revenue: 3815.03</text>
+  <text x="470" y="205" class="value" style="font-size:20px;">62.7%</text>
+
+  <!-- Segment revenue chart -->
+  <text x="50" y="250" class="chartTitle">Revenue by segment</text>
+  <line x1="70" y1="390" x2="430" y2="390" class="axis"/>
+  <line x1="70" y1="260" x2="430" y2="260" class="axis"/>
+  <!-- Corporate -->
+  <rect x="130" y="265" width="70" height="120" rx="6" class="barCorporate"/>
+  <text x="125" y="405" class="kpiSmall" style="text-anchor:end;">Corporate</text>
+  <text x="165" y="275" class="kpiSmall" text-anchor="middle">3815.03</text>
+  <!-- Retail -->
+  <rect x="240" y="314" width="70" height="71" rx="6" class="barRetail"/>
+  <text x="275" y="405" class="kpiSmall" text-anchor="middle">Retail</text>
+  <text x="275" y="322" class="kpiSmall" text-anchor="middle">2269.70</text>
+
+  <!-- Region revenue chart -->
+  <text x="470" y="250" class="chartTitle">Top regions (revenue)</text>
+  <line x1="490" y1="390" x2="850" y2="390" class="axis"/>
+  <line x1="490" y1="260" x2="850" y2="260" class="axis"/>
+  <!-- Lima -->
+  <rect x="515" y="265" width="70" height="120" rx="6" class="barLima"/>
+  <text x="550" y="405" class="kpiSmall" text-anchor="middle">Lima</text>
+  <text x="550" y="275" class="kpiSmall" text-anchor="middle">5337.08</text>
+  <!-- Arequipa -->
+  <rect x="630" y="376" width="70" height="9" rx="6" class="barArequipa"/>
+  <text x="665" y="405" class="kpiSmall" text-anchor="middle">Arequipa</text>
+  <text x="665" y="372" class="kpiSmall" text-anchor="middle">413.25</text>
+  <!-- Cusco -->
+  <rect x="745" y="380" width="70" height="5" rx="6" class="barCusco"/>
+  <text x="780" y="405" class="kpiSmall" text-anchor="middle">Cusco</text>
+  <text x="780" y="378" class="kpiSmall" text-anchor="middle">239.40</text>
+
+  <text x="30" y="410" class="kpiSmall">
+    Visual preview generated from included sample retail dataset (for presentation only).
+  </text>
+</svg>
+
+test
