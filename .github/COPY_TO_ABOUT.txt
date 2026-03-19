@@ -1,0 +1,16 @@
+Pega esto en GitHub → repo → About (engranaje) → Description + Topics
+
+---
+DESCRIPTION (copiar tal cual):
+Portfolio: SQL, KPI reporting, data quality, dimensional modeling. Technical Data Analyst / BI Analyst.
+
+---
+TOPICS (añadir uno por uno o pegar si GitHub lo permite):
+sql
+power-bi
+data-analytics
+kpi
+data-quality
+reporting
+business-intelligence
+portfolio
