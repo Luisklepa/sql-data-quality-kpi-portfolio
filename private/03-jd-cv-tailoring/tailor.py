@@ -8,7 +8,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-SHARED = ROOT.parent / "_shared"
+SHARED = ROOT.parent.parent / "_shared"
 sys.path.insert(0, str(SHARED))
 
 import yaml

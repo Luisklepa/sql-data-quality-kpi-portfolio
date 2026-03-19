@@ -1,16 +1,17 @@
-Pega esto en GitHub → repo → About (engranaje) → Description + Topics
+GitHub → repo → About (engranaje) → Description + Topics
 
 ---
 DESCRIPTION (copiar tal cual):
 Portfolio: SQL, KPI reporting, data quality, dimensional modeling. Technical Data Analyst / BI Analyst.
 
 ---
-TOPICS (añadir uno por uno o pegar si GitHub lo permite):
-sql
-power-bi
-data-analytics
-kpi
-data-quality
-reporting
-business-intelligence
-portfolio
+TOPICS — Importantes para ATS: incluir siempre kpi y data-quality si no están.
+Lista completa recomendada:
+  sql
+  power-bi
+  data-analytics
+  kpi          ← añadir si falta
+  data-quality ← añadir si falta
+  reporting
+  business-intelligence
+  portfolio

@@ -26,9 +26,10 @@ LIMITLESS/
 │   └── docs/
 ├── 01-sql-interview-lab/      # [PUBLIC] Portfolio
 ├── 02-data-quality-kpi-pack/ # [PUBLIC] Portfolio
-├── 03-jd-cv-tailoring/       # [PRIVATE] Employability tool
 ├── 04-api-sql-bi-pipeline/   # [PUBLIC] Portfolio
-└── 05-mock-interview-generator/ # [PRIVATE] Employability tool
+├── private/                  # [PRIVATE] 03 JD tailoring, 05 Mock interview
+│   ├── 03-jd-cv-tailoring/
+│   └── 05-mock-interview-generator/
 ```
 
 ---

@@ -4,6 +4,24 @@ Portfolio for **Technical Data Analyst / BI Analyst** roles: SQL, KPI reporting,
 
 **Technical Data Analyst / BI Analyst** focused on SQL, KPI reporting, data quality, and dimensional modeling.
 
+```mermaid
+erDiagram
+    fact_sales ||--o{ dim_customer : "customer_id"
+    fact_sales ||--o{ dim_product : "product_id"
+    fact_sales ||--o{ dim_date : "sale_date_id"
+    fact_sales {
+        int sale_id PK
+        int quantity
+        float unit_price
+        float discount_pct
+    }
+    dim_customer { int customer_id PK  string segment  string region }
+    dim_product { int product_id PK  string category  float unit_cost }
+    dim_date { int date_id PK  int year  int month }
+```
+
+*Star schema used across projects (SQL Lab, Data Quality pack, API pipeline). Revenue = quantity × unit_price × (1 − discount_pct/100).*
+
 ---
 
 ## Focus
@@ -32,7 +50,7 @@ Each project is documented with business problem, approach, outputs, and limitat
 
 ## Supporting tools (private use)
 
-[03 — JD/CV Tailoring](03-jd-cv-tailoring/) and [05 — Mock Interview Generator](05-mock-interview-generator/) for application tailoring and interview prep. Not presented as portfolio pieces.
+[03 — JD/CV Tailoring](private/03-jd-cv-tailoring/) and [05 — Mock Interview Generator](private/05-mock-interview-generator/) for application tailoring and interview prep (in `private/`). Not presented as portfolio pieces.
 
 ---
 

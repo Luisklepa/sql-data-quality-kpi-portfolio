@@ -1,5 +1,5 @@
-# LIMITLESS — dependencias Python (02, 03, 04, 05)
-# Instalación: pip install -r requirements.txt
+# Python dependencies (02, 04; and private tools in private/)
+# pip install -r requirements.txt
 
 pyyaml>=6.0
 pandas>=2.0.0

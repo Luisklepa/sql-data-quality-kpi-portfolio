@@ -19,32 +19,17 @@ This repo is ready for public publication. Git is initialized and the initial co
    - Do **not** add a README, .gitignore, or license (this repo already has them)
    - Click **Create repository**
 
-2. **Set the remote URL** (replace `YOUR_GITHUB_USERNAME` with your GitHub username)
+2. **Remote** — Ya configurado para `luisklepa`:
 
-   A placeholder remote may already be set. Update it:
+   ```
+   origin  https://github.com/Luisklepa/sql-data-quality-kpi-portfolio.git
+   ```
+
+3. **Push** (después de crear el repo en GitHub):
 
    ```bash
    cd "c:\Users\User\Desktop\LIMITLESS"
-   git remote set-url origin https://github.com/YOUR_GITHUB_USERNAME/sql-data-quality-kpi-portfolio.git
-   ```
-
-   If you have not added a remote yet:
-
-   ```bash
-   git remote add origin https://github.com/YOUR_GITHUB_USERNAME/sql-data-quality-kpi-portfolio.git
-   ```
-
-3. **Push** (use `main` or `master` depending on your default branch)
-
-   ```bash
-   git branch -M main
    git push -u origin main
-   ```
-
-   Or, if you keep `master`:
-
-   ```bash
-   git push -u origin master
    ```
 
 4. **Set the repo description and topics on GitHub**
@@ -53,7 +38,7 @@ This repo is ready for public publication. Git is initialized and the initial co
 
 ## Final repo URL (after you create and push)
 
-`https://github.com/YOUR_GITHUB_USERNAME/sql-data-quality-kpi-portfolio`
+**https://github.com/Luisklepa/sql-data-quality-kpi-portfolio**
 
 ---
 
